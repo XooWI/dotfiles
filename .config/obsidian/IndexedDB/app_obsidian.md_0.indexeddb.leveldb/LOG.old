@@ -1,0 +1,13 @@
+2026/03/08-11:36:58.539 691 Reusing MANIFEST /home/xoowi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/08-11:36:58.540 691 Recovering log #3126
+2026/03/08-11:36:58.543 691 Reusing old log /home/xoowi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/003126.log 
+2026/03/08-11:36:59.795 717 Compacting 1@1 + 4@2 files
+2026/03/08-11:36:59.836 717 Generated table #3129@1: 23054 keys, 2193632 bytes
+2026/03/08-11:36:59.868 717 Generated table #3130@1: 2114 keys, 2000720 bytes
+2026/03/08-11:36:59.868 717 Compacted 1@1 + 4@2 files => 4194352 bytes
+2026/03/08-11:36:59.870 717 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/08-11:36:59.871 717 Delete type=2 #3127
+2026/03/08-11:36:59.871 717 Delete type=2 #3118
+2026/03/08-11:36:59.871 717 Delete type=2 #3122
+2026/03/08-11:36:59.871 717 Delete type=2 #3123
+2026/03/08-11:36:59.871 717 Delete type=2 #3124
