@@ -1,0 +1,9 @@
+[user]
+	name = XooWI
+	email = ehvaatihon@gmail.com
+[pull]
+	rebase = true
+[core]
+	editor = /usr/bin/vim
+[init]
+	defaultBranch = main
