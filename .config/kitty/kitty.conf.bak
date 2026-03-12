@@ -847,7 +847,7 @@
 
 #: }}}
 
-#: Window layout {{{
+#: Window layout a{{{
 
 # remember_window_size  yes
 # initial_window_width  640
@@ -2638,3 +2638,22 @@
 #: }}}
 
 #: }}}
+
+
+# BEGIN_KITTY_FONTS
+font_family      family="JetBrains Mono"
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+font_size 16.0
+# END_KITTY_FONTS
+
+# BEGIN_KITTY_BACKGROUND
+background #170E13
+background_opacity 1
+# END_KITTY_BACKGROUND
+
+# BEGIN_KITTY_CLIPBOARD
+map ctrl+shift+c copy_to_clipboard
+map ctrl+shift+v paste_from_clipboard
+# END_KITTY_CLIPBOARD

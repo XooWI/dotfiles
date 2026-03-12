@@ -12,6 +12,8 @@ if status is-interactive
     alias nmcon="nmcli d w c --ask"
     alias torrent="transmission-cli"
     alias reflect="sudo reflector --country Russia --sort rate --number 15 --save /etc/pacman.d/mirrorlist"
+    alias reloadniri="niri msg action load-config-file"
 
     set -U fish_user_paths $fish_user_paths ~/bin
+    set -gx SSH_AUTH_SOCK "$XDG_RUNTIME_DIR/ssh-agent.socket"
 end

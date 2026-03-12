@@ -1,3 +1,36 @@
-2026/03/08-12:49:48.213 110a Reusing MANIFEST /home/xoowi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/08-12:49:48.214 110a Recovering log #3126
-2026/03/08-12:49:48.233 110a Reusing old log /home/xoowi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/003126.log 
+2026/03/12-08:23:23.387 5f2 Reusing MANIFEST /home/xoowi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/12-08:23:23.389 5f2 Recovering log #3204
+2026/03/12-08:23:23.399 5f2 Reusing old log /home/xoowi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/003204.log 
+2026/03/12-08:38:07.134 577 Level-0 table #3210: started
+2026/03/12-08:38:07.153 577 Level-0 table #3210: 864298 bytes OK
+2026/03/12-08:38:07.158 577 Delete type=0 #3204
+2026/03/12-08:38:50.106 5f2 Compacting 1@1 + 2@2 files
+2026/03/12-08:38:50.161 5f2 Generated table #3211@1: 22931 keys, 2210162 bytes
+2026/03/12-08:38:50.181 5f2 Generated table #3212@1: 2361 keys, 1851578 bytes
+2026/03/12-08:38:50.181 5f2 Compacted 1@1 + 2@2 files => 4061740 bytes
+2026/03/12-08:38:50.184 5f2 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/12-08:38:50.185 5f2 Delete type=2 #3206
+2026/03/12-08:38:50.185 5f2 Delete type=2 #3210
+2026/03/12-08:38:50.185 5f2 Delete type=2 #3207
+2026/03/12-08:55:20.486 5f2 Level-0 table #3214: started
+2026/03/12-08:55:20.499 5f2 Level-0 table #3214: 1242336 bytes OK
+2026/03/12-08:55:20.503 5f2 Delete type=0 #3209
+2026/03/12-09:01:23.381 577 Compacting 1@1 + 2@2 files
+2026/03/12-09:01:23.443 577 Generated table #3215@1: 22990 keys, 2198849 bytes
+2026/03/12-09:01:23.466 577 Generated table #3216@1: 2363 keys, 1902986 bytes
+2026/03/12-09:01:23.466 577 Compacted 1@1 + 2@2 files => 4101835 bytes
+2026/03/12-09:01:23.468 577 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/12-09:01:23.469 577 Delete type=2 #3214
+2026/03/12-09:01:23.469 577 Delete type=2 #3212
+2026/03/12-09:01:23.469 577 Delete type=2 #3211
+2026/03/12-09:34:22.571 5f2 Level-0 table #3218: started
+2026/03/12-09:34:22.584 5f2 Level-0 table #3218: 1168342 bytes OK
+2026/03/12-09:34:22.589 5f2 Delete type=0 #3213
+2026/03/12-09:35:49.367 5f2 Compacting 1@1 + 2@2 files
+2026/03/12-09:35:49.404 5f2 Generated table #3219@1: 23011 keys, 2215175 bytes
+2026/03/12-09:35:49.427 5f2 Generated table #3220@1: 2362 keys, 1876336 bytes
+2026/03/12-09:35:49.427 5f2 Compacted 1@1 + 2@2 files => 4091511 bytes
+2026/03/12-09:35:49.430 5f2 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/12-09:35:49.431 5f2 Delete type=2 #3216
+2026/03/12-09:35:49.431 5f2 Delete type=2 #3218
+2026/03/12-09:35:49.431 5f2 Delete type=2 #3215
