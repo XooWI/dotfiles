@@ -88,7 +88,7 @@ input {
     mode "2560x1600@60"
 
     // You can use integer or fractional scale, for example use 1.5 for 150% scale.
-    scale 2
+    scale 2.0
 
     // Transform allows to rotate the output counter-clockwise, valid values are:
     // normal, 90, 180, 270, flipped, flipped-90, flipped-180 and flipped-270.
@@ -310,10 +310,11 @@ animations {
 // https://yalter.github.io/niri/Configuration:-Window-Rules
 
 
-// Обсидиан и браузер на полный экран
+// Обсидиан, офис и браузер на полный экран
 window-rule {
     match app-id="librewolf"
     match app-id="obsidian"
+    match app-id="ONLYOFFICE"
     open-maximized true
 }
 
@@ -377,9 +378,10 @@ binds {
 
     //Кастомные бинды для утилит
     Mod+B hotkey-overlay-title="Open a Browser" { spawn "librewolf"; }
-    Mod+E hotkey-overlay-title="Open an Explorer" { spawn "dolphin"; }
+    Mod+E hotkey-overlay-title="Open an Explorer" { spawn "nautilus"; }
     Mod+A hotkey-overlay-title="Open an Obsidian" { spawn "obsidian"; }
     Mod+N hotkey-overlay-title="Suspend" { spawn-sh "qs -c noctalia-shell ipc call sessionMenu lockAndSuspend"; }
+    Mod+Z hotkey-overlay-title="Clipboard" { spawn-sh "qs -c noctalia-shell ipc call plugin:clipper toggle"; }
 
 
     // Use spawn-sh to run a shell command. Do this if you need pipes, multiple commands, etc.

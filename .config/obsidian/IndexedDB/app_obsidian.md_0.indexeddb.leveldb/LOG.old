@@ -1,14 +1,14 @@
-2026/03/11-14:58:52.444 26f5 Reusing MANIFEST /home/xoowi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/11-14:58:52.446 26f5 Recovering log #3199
-2026/03/11-14:58:52.460 26f5 Reusing old log /home/xoowi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/003199.log 
-2026/03/11-14:58:54.059 2771 Level-0 table #3205: started
-2026/03/11-14:58:54.073 2771 Level-0 table #3205: 1292930 bytes OK
-2026/03/11-14:58:54.075 2771 Delete type=0 #3199
-2026/03/11-14:58:54.078 2771 Compacting 1@1 + 2@2 files
-2026/03/11-14:58:54.115 2771 Generated table #3206@1: 23724 keys, 2207672 bytes
-2026/03/11-14:58:54.141 2771 Generated table #3207@1: 2363 keys, 1907546 bytes
-2026/03/11-14:58:54.141 2771 Compacted 1@1 + 2@2 files => 4115218 bytes
-2026/03/11-14:58:54.143 2771 compacted to: files[ 0 0 2 0 0 0 0 ]
-2026/03/11-14:58:54.143 2771 Delete type=2 #3201
-2026/03/11-14:58:54.143 2771 Delete type=2 #3205
-2026/03/11-14:58:54.143 2771 Delete type=2 #3202
+2026/03/16-06:30:24.875 5c5 Reusing MANIFEST /home/xoowi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/16-06:30:24.877 5c5 Recovering log #3227
+2026/03/16-06:30:24.887 5c5 Reusing old log /home/xoowi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/003227.log 
+2026/03/16-06:30:25.856 640 Level-0 table #3233: started
+2026/03/16-06:30:25.864 640 Level-0 table #3233: 708453 bytes OK
+2026/03/16-06:30:25.866 640 Delete type=0 #3227
+2026/03/16-06:30:27.036 640 Compacting 1@1 + 2@2 files
+2026/03/16-06:30:27.066 640 Generated table #3234@1: 24617 keys, 2200567 bytes
+2026/03/16-06:30:27.083 640 Generated table #3235@1: 2357 keys, 1804652 bytes
+2026/03/16-06:30:27.083 640 Compacted 1@1 + 2@2 files => 4005219 bytes
+2026/03/16-06:30:27.085 640 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/16-06:30:27.085 640 Delete type=2 #3229
+2026/03/16-06:30:27.085 640 Delete type=2 #3233
+2026/03/16-06:30:27.085 640 Delete type=2 #3230
